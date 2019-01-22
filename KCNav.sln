@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTest2.Android", "MapTest2\MapTest2.Android\MapTest2.Android.csproj", "{846F41E1-E160-4DE3-9579-BDBE864528E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTest4.Android", "MapTest4\MapTest4.Android\MapTest4.Android.csproj", "{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapTest4", "MapTest4\MapTest4\MapTest4.csproj", "{4716BE7C-956A-46B6-A2E2-CB7A6E9F9C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,16 @@ Global
 		{846F41E1-E160-4DE3-9579-BDBE864528E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{846F41E1-E160-4DE3-9579-BDBE864528E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{846F41E1-E160-4DE3-9579-BDBE864528E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2DF23C-B111-48A8-A6FC-F9C042E6232F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4716BE7C-956A-46B6-A2E2-CB7A6E9F9C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4716BE7C-956A-46B6-A2E2-CB7A6E9F9C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4716BE7C-956A-46B6-A2E2-CB7A6E9F9C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4716BE7C-956A-46B6-A2E2-CB7A6E9F9C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
